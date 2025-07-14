@@ -11,6 +11,7 @@ This repository provides example notebooks demonstrating how to interact with a 
 5. **5_rag_pipeline.ipynb** – minimal retrieval-augmented generation workflow.
 6. **6_synthetic_data_classifier.ipynb** – generates synthetic data and trains a classifier.
 7. **7_causal_claim_extraction.ipynb** – extracts cause/effect pairs from a large document.
+8. **8_planning_classifier_pipeline.ipynb** – pipeline for embedding and classifying planning descriptions.
 
 All notebooks rely on common packages such as `requests`, `pandas`, `numpy`, `matplotlib`, `plotly`, and `scikit-learn`. When an Ollama server is not available, the notebooks use built-in simulation so they still execute.
 
