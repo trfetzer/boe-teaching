@@ -24,4 +24,4 @@ pip install pandas numpy matplotlib plotly scikit-learn pillow requests nbformat
 jupyter nbconvert --execute notebooks/1_simple_starter.ipynb
 ```
 
-To use your own Ollama models (e.g. `llama3`, `llava`, or `mxbai-embed-large`), set `simulate = False` inside the notebooks.
+To use your own Ollama models (e.g. `llama3`, `llava`, or `mxbai-embed-large`)
